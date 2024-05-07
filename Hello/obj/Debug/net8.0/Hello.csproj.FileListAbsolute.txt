@@ -1,0 +1,14 @@
+C:\Users\YashSiwachA\OneDrive\Desktop\Codes\C#\Hello\bin\Debug\net8.0\Hello.exe
+C:\Users\YashSiwachA\OneDrive\Desktop\Codes\C#\Hello\bin\Debug\net8.0\Hello.deps.json
+C:\Users\YashSiwachA\OneDrive\Desktop\Codes\C#\Hello\bin\Debug\net8.0\Hello.runtimeconfig.json
+C:\Users\YashSiwachA\OneDrive\Desktop\Codes\C#\Hello\bin\Debug\net8.0\Hello.dll
+C:\Users\YashSiwachA\OneDrive\Desktop\Codes\C#\Hello\bin\Debug\net8.0\Hello.pdb
+C:\Users\YashSiwachA\OneDrive\Desktop\Codes\C#\Hello\obj\Debug\net8.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YashSiwachA\OneDrive\Desktop\Codes\C#\Hello\obj\Debug\net8.0\Hello.AssemblyInfoInputs.cache
+C:\Users\YashSiwachA\OneDrive\Desktop\Codes\C#\Hello\obj\Debug\net8.0\Hello.AssemblyInfo.cs
+C:\Users\YashSiwachA\OneDrive\Desktop\Codes\C#\Hello\obj\Debug\net8.0\Hello.csproj.CoreCompileInputs.cache
+C:\Users\YashSiwachA\OneDrive\Desktop\Codes\C#\Hello\obj\Debug\net8.0\Hello.dll
+C:\Users\YashSiwachA\OneDrive\Desktop\Codes\C#\Hello\obj\Debug\net8.0\refint\Hello.dll
+C:\Users\YashSiwachA\OneDrive\Desktop\Codes\C#\Hello\obj\Debug\net8.0\Hello.pdb
+C:\Users\YashSiwachA\OneDrive\Desktop\Codes\C#\Hello\obj\Debug\net8.0\Hello.genruntimeconfig.cache
+C:\Users\YashSiwachA\OneDrive\Desktop\Codes\C#\Hello\obj\Debug\net8.0\ref\Hello.dll
