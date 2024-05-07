@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YashSiwachA\\OneDrive\\Desktop\\Codes\\C#\\practice\\1_\\1_.csproj",
+      "projectUniqueName": "C:\\Users\\YashSiwachA\\OneDrive\\Desktop\\Codes\\C#\\practice\\1_Variables\\1_.csproj",
       "projectName": "1_",
-      "projectPath": "C:\\Users\\YashSiwachA\\OneDrive\\Desktop\\Codes\\C#\\practice\\1_\\1_.csproj",
+      "projectPath": "C:\\Users\\YashSiwachA\\OneDrive\\Desktop\\Codes\\C#\\practice\\1_Variables\\1_.csproj",
       "packagesPath": "C:\\Users\\YashSiwachA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YashSiwachA\\OneDrive\\Desktop\\Codes\\C#\\practice\\1_\\obj\\",
+      "outputPath": "C:\\Users\\YashSiwachA\\OneDrive\\Desktop\\Codes\\C#\\practice\\1_Variables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\YashSiwachA\\AppData\\Roaming\\NuGet\\NuGet.Config"
